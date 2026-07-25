@@ -1,0 +1,3 @@
+# Diabetes-Prediction
+#SVM
+#PYTHON
